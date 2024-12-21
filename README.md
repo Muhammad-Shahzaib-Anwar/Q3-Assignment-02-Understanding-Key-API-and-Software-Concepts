@@ -8,4 +8,5 @@ A Software Development Kit provides tools, libraries, and documentation to simpl
 These are APIs accessed via HTTP that enable communication between servers and clients, commonly used for web-based integrations.
 ### Library APIs: 
 These expose functionality from a software library, allowing developers to use predefined functions for specific tasks within their code.
-Prompting and Completion: A process in AI systems where prompts guide the model to generate contextually relevant outputs or text completions.
+### Prompting and Completion: 
+A process in AI systems where prompts guide the model to generate contextually relevant outputs or text completions.
